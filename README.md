@@ -62,6 +62,10 @@ Developed a comprehensive Power BI dashboard that presents a detailed analysis o
 ## Dashboard Overview
 
 🏠 **Home Page**: Overview of key metrics and project summary.  
+
+![image](https://github.com/user-attachments/assets/51d5d0b6-53fb-4513-9d6b-23998eee3626)
+
+
 🚗 **Market Analysis Dashboard**: Insights into the EV and hybrid market trends in India.  
 👥 **Customer Insights Dashboard**: Analysis of customer preferences and behaviors.  
 📈 **Sales Trends Dashboard**: Detailed view of sales trends across states and manufacturers.  
