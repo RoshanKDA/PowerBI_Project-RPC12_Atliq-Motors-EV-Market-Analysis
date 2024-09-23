@@ -30,9 +30,9 @@ To analyze the Indian EV and hybrid market and provide data-driven recommendatio
 - **Power BI Desktop**: Built interactive dashboards and visualizations for insightful data presentation.
 - **MS PowerPoint**: Utilized for creating the final presentation of findings.
 - **Excel**: Used for data cleaning, preliminary analysis, and structuring datasets.
-- **SQL**: Utilized for querying and managing large datasets to extract relevant information. *(If used, otherwise leave empty)*
-- **DAX Language**: Employed for creating measures and calculated columns in Power BI. *(If used, otherwise leave empty)*
-- **DAX Studio**: Used for optimizing report performance and conducting in-depth DAX queries. *(If used, otherwise leave empty)*
+- **SQL**: Utilized for querying and managing large datasets to extract relevant information.
+- **DAX Language**: Employed for creating measures and calculated columns in Power BI.
+- **DAX Studio**: Used for optimizing report performance and conducting in-depth DAX queries. 
 
 ### Key Achievement
 
