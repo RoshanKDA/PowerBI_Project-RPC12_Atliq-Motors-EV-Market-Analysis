@@ -61,16 +61,25 @@ Developed a comprehensive Power BI dashboard that presents a detailed analysis o
 
 ## Dashboard Overview
 
-🏠 **Home Page**: Overview of key metrics and project summary.  
+🏠 **Home Page**: 
 
 ![image](https://github.com/user-attachments/assets/51d5d0b6-53fb-4513-9d6b-23998eee3626)
 
 
-🚗 **Market Analysis Dashboard**: Insights into the EV and hybrid market trends in India.  
-👥 **Customer Insights Dashboard**: Analysis of customer preferences and behaviors.  
-📈 **Sales Trends Dashboard**: Detailed view of sales trends across states and manufacturers.  
-🗺️ **Geographical Analysis Dashboard**: Focused on regional adoption rates and market penetration.  
-📋 **Competitive Landscape Analysis**: Comprehensive profiling of key competitors and market strategies.  
+📊 State View Dashboard: Insights into EV and hybrid vehicle market trends across various states.
+
+![image](https://github.com/user-attachments/assets/b1aaecff-0a51-4778-bc8d-8cf16a309c6f)
+
+
+🚗 Maker View Dashboard: Analysis of different manufacturers and their performance in the EV and hybrid market.
+
+![image](https://github.com/user-attachments/assets/042dd8af-7887-48cf-bb5a-a25dc698495b)
+
+
+⚖️ Comparison Dashboard: A comparative analysis of EV vs. hybrid vehicle sales, customer preferences, and performance by regions and manufacturers.
+
+![image](https://github.com/user-attachments/assets/8d062e5a-9b6a-48e7-a09d-e477ffebe116)
+
 
 ## Recommendations for Market Expansion
 
