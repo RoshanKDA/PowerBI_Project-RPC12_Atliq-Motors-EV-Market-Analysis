@@ -9,7 +9,7 @@ Data Analyst
 
 ## Project Links
 
-📊 **Live Dashboard**: [LINK](#)  
+📊 **Live Dashboard**: [LINK](https://app.powerbi.com/view?r=eyJrIjoiMWM4ZjgzMzUtNjkxNC00ZWZhLTk4OWItOWMwOWE4YmIzYjJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 🎥 **LinkedIn Post with Presentation Video**: [Watch Now](#)  
 📄 **Presentation PPT**: [Link](#)  
 
